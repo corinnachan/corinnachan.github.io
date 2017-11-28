@@ -7,7 +7,7 @@ description: |
   Numbers Professional. Travel Photographer. Culture Enthusiast. Global Citizen.
 owner: Corinna Chan # or company name
 first_published: 2017 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: hello@corinnachan.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
