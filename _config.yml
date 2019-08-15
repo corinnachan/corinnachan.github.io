@@ -4,15 +4,15 @@
 # Site settings
 title: Corinna Chan
 description: |
-  Numbers Professional. Travel Photographer. Culture Enthusiast. Global Citizen.
+  Data Professional. Self-taught Developer. Immersive Traveller. Global Citizen.
 owner: Corinna Chan # or company name
-first_published: 2017 # if migrating another site, the year of your first publish
+first_published: 2017 - # if migrating another site, the year of your first publish
 email: hello@corinnachan.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/corinna_chan
-  #github: https://github.com/<username>
+  github: https://github.com/corinnachan
   linkedin-square: https://linkedin.com/in/corinnachan
   #facebook-official: https://facebook.com/<username>
   #google-plus-square: https://plus.google.com/u/0/+<username>
